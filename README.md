@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tim-cryptow
-- 👀 I’m interested in python, data science, machine learning and AI, Cloud Computing.
+- 👀 Data science, machine learning and AI, Cloud Computing.
 - 📫 How to reach me (timgoods@proton.me)
 - 😄 Pronouns: He
 - ⚡ Fun fact: “I... a universe of atoms, an atom in the universe.”
